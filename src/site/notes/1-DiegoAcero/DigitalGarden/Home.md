@@ -4,4 +4,4 @@
 
 # Welcome to My digital garden.
 
-Here i will share my thought process
+Here i will share my thought process. I hope you enjoy the process
