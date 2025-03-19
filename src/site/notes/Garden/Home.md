@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-diego-acero/digital-garden/home/","tags":["gardenEntry"],"created":"2025-03-10T20:34:05.839+01:00","updated":"2025-03-12T07:50:33.233+01:00"}
+{"dg-publish":true,"permalink":"/garden/home/","tags":["gardenEntry"],"created":"2025-03-12T07:24:26.000+01:00","updated":"2025-03-12T07:52:34.000+01:00"}
 ---
 
 # Welcome to My digital garden.
@@ -12,5 +12,4 @@ In my case i will use:
 
 🌱 Seeds: For idea/concept that is starting to grow
 🌳 Trees: A more structured note where I will connect different ideas creating some branching.
-🍑 Fruits: This will be finish work like articles, scripts...
-
+🍑 Fruits: This will be finish work like articles, scripts... The end of the idea.
