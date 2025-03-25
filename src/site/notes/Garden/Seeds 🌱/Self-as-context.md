@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/seeds/self-as-context/","created":"2025-03-19T07:19:03.514+01:00","updated":"2025-03-19T08:05:20.713+01:00"}
+{"dg-publish":true,"permalink":"/garden/seeds/self-as-context/","created":"2025-03-19T15:26:47.000+01:00","updated":"2025-03-19T08:05:20.000+01:00"}
 ---
 
 Understanding that you are not the actions you take. You have to take into account the context around things.
